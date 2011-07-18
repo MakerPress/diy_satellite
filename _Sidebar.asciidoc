@@ -1,4 +1,6 @@
-[[ attachments/_Logo.png ]]
+[[attachments/_Logo.png]]
+
+=== DIY Satellite
 
 == Useful Links
 * [[Home / TOC |home]]
